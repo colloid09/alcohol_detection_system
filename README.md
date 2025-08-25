@@ -44,10 +44,8 @@ https://github.com/user-attachments/assets/e6ad8a84-3daa-4b61-a5e1-b97ed74ebf87
 1. The driver exhales near the alcohol sensor.  
 2. The sensor detects alcohol levels in the breath.  
 3. If the value exceeds a threshold:  
-   - Buzzer is activated.  
-   - Vehicle ignition is disabled (relay module).  
-   - (Optional) Alert is sent via GSM/IoT module.  
-4. If no alcohol is detected, ignition remains enabled.  
+   - Buzzer is activated.    
+4. If no alcohol is detected, the buzzer wont get activated
 
 ---
 
@@ -55,13 +53,6 @@ https://github.com/user-attachments/assets/e6ad8a84-3daa-4b61-a5e1-b97ed74ebf87
 - Prevent drunk driving accidents.  
 - Integration with smart vehicles.  
 - Research and educational IoT/Embedded projects.  
-
----
-
-## 📌 Future Enhancements
-- SMS/Email alerts with GSM/Wi-Fi module.  
-- Cloud integration for monitoring.  
-- Mobile application for real-time alerts.  
 
 ---
 
