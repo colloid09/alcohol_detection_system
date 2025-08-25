@@ -1,7 +1,7 @@
 # 🍺 Alcohol Detection System
 
 An **Alcohol Detection System** designed to improve road safety by detecting alcohol consumption in drivers.  
-The system uses an **MQ-3 alcohol sensor** to measure the concentration of alcohol in breath and takes preventive measures such as **disabling vehicle ignition, triggering alarms, or sending alerts**.
+The system uses an **MQ-3 alcohol sensor** to measure the concentration of alcohol in breath and takes preventive measures such as ** triggering alarms and sending alerts**.
 
 ---
 
