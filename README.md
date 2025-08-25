@@ -19,3 +19,9 @@ The system uses an **MQ-3 alcohol sensor** to measure the concentration of alcoh
 
 - **Software:** Arduino IDE  
 ---
+
+## 🪛Architecture Diagram
+
+![WhatsApp Image 2025-08-25 at 11 52 49_115fa325](https://github.com/user-attachments/assets/0af84f80-fbd4-4edc-a14b-32cd9c7c079c)
+
+---
