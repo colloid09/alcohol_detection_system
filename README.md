@@ -17,11 +17,24 @@ The system uses an **MQ-3 alcohol sensor** to measure the concentration of alcoh
 ## 🛠️ Technologies Used
 - **Hardware:** Arduino Uno, MQ-3 Alcohol Sensor, Buzzer, Red LED, Breadboard, Jumper wires
 
-- **Software:** Arduino IDE  
+- **Software:** Arduino IDE
+  
 ---
 
-## 🪛Architecture Diagram
+## 🪛 Architecture Diagram
 
 ![WhatsApp Image 2025-08-25 at 11 52 49_115fa325](https://github.com/user-attachments/assets/0af84f80-fbd4-4edc-a14b-32cd9c7c079c)
 
 ---
+
+## 🧪 Test Cases
+
+![WhatsApp Image 2025-08-25 at 11 54 53_da5daff9](https://github.com/user-attachments/assets/9dfd03dc-7c26-4f80-b357-1a2ac6a06924)
+
+https://github.com/user-attachments/assets/b076c23e-7358-4aeb-9407-e5697b70782e
+
+
+---
+
+
+
