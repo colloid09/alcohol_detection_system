@@ -32,9 +32,14 @@ The system uses an **MQ-3 alcohol sensor** to measure the concentration of alcoh
 ![WhatsApp Image 2025-08-25 at 11 54 53_da5daff9](https://github.com/user-attachments/assets/9dfd03dc-7c26-4f80-b357-1a2ac6a06924)
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/b076c23e-7358-4aeb-9407-e5697b70782e">▶️ Video 1</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/user-attachments/assets/e6ad8a84-3daa-4b61-a5e1-b97ed74ebf87">▶️ Video 2</a>
+  <a href="https://github.com/user-attachments/assets/b076c23e-7358-4aeb-9407-e5697b70782e">
+    <img src="https://github.com/user-attachments/assets/b076c23e-7358-4aeb-9407-e5697b70782e" width="45%" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/e6ad8a84-3daa-4b61-a5e1-b97ed74ebf87">
+    <img src="https://github.com/user-attachments/assets/e6ad8a84-3daa-4b61-a5e1-b97ed74ebf87" width="45%" />
+  </a>
 </p>
+
 
 
 
